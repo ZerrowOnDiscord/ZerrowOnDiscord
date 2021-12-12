@@ -8,7 +8,7 @@
 ### <p align="center">### About</p>
 <br>
 <p align="center">
-  📧・zerrowtv@protonmail.com.
+  📧・zerrowtv@protonmail.com.\n
   📝・13 Years old.</p>
   <br>
 
@@ -21,8 +21,3 @@
 </p>
 
 -----
-### <p align="center">### Images</p>
-
-<p align = "center">
-<img src="https://cdn.discordapp.com/attachments/856802779489501187/882606120772984832/unknown.png">
-</p>
