@@ -8,7 +8,7 @@
 ### <p align="center">### About</p>
 <br>
 <p align="center">
-  📧・zerrowtv@protonmail.com.\n
+  📧・zerrowtv@protonmail.com.
   📝・13 Years old.</p>
   <br>
 
