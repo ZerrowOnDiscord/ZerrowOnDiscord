@@ -2,7 +2,7 @@
   <br>
   <samp>
     Hey you ! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://zerrow.bio.link">Zerrow</a></b>.
-    <br>I'm a Python developper from France.<br>
+    <br>I'm a Python, MERN Stack developper from France.<br>
 
 </samp>
 
